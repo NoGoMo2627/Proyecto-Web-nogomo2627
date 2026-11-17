@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    size: 12rem;
+    text-align: justify;
+}
+
+nav {
+    color: rgb(78, 9, 9)
+}
+
+section {
+    color:rgb(78, 9, 9)
+}
+
+p {
+    color: black
+}
+
+footer {
+    text-align: right;
+    size: 10rem;
+}
